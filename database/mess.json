@@ -1,0 +1,116 @@
+[
+  {
+    "id": "191C8FD4DD932AA9109246C5D869CC8B",
+    "msg": {
+      "key": {
+        "remoteJid": "120363022845553232@g.us",
+        "fromMe": false,
+        "id": "191C8FD4DD932AA9109246C5D869CC8B",
+        "participant": "6285859202162@s.whatsapp.net"
+      },
+      "messageTimestamp": 1665806664,
+      "pushName": "Ferlito",
+      "message": {
+        "buttonsResponseMessage": {
+          "selectedButtonId": "antidelete off",
+          "selectedDisplayText": "Disable",
+          "contextInfo": {
+            "stanzaId": "BAE51A1D35A3C5D8",
+            "participant": "62858592021620@s.whatsapp.net",
+            "quotedMessage": {
+              "buttonsMessage": {
+                "text": "Mode antidelete 🕊️",
+                "contentText": "Mode antidelete 🕊️",
+                "footerText": "Silahkan Klik Button Dibawah, Jika Button Tidak Muncul Ketik antidelete on/off",
+                "buttons": [
+                  {
+                    "buttonId": "antidelete on",
+                    "buttonText": {
+                      "displayText": "Enable"
+                    },
+                    "type": "RESPONSE"
+                  },
+                  {
+                    "buttonId": "antidelete off",
+                    "buttonText": {
+                      "displayText": "Disable"
+                    },
+                    "type": "RESPONSE"
+                  }
+                ],
+                "headerType": "EMPTY"
+              }
+            }
+          },
+          "type": "DISPLAY_TEXT"
+        }
+      },
+      "id": "191C8FD4DD932AA9109246C5D869CC8B",
+      "isBaileys": false,
+      "chat": "120363022845553232@g.us",
+      "fromMe": false,
+      "isGroup": true,
+      "sender": "6285859202162@s.whatsapp.net",
+      "participant": "6285859202162@s.whatsapp.net",
+      "mtype": "buttonsResponseMessage",
+      "msg": {
+        "selectedButtonId": "antidelete off",
+        "selectedDisplayText": "Disable",
+        "contextInfo": {
+          "stanzaId": "BAE51A1D35A3C5D8",
+          "participant": "62858592021620@s.whatsapp.net",
+          "quotedMessage": {
+            "buttonsMessage": {
+              "text": "Mode antidelete 🕊️",
+              "contentText": "Mode antidelete 🕊️",
+              "footerText": "Silahkan Klik Button Dibawah, Jika Button Tidak Muncul Ketik antidelete on/off",
+              "buttons": [
+                {
+                  "buttonId": "antidelete on",
+                  "buttonText": {
+                    "displayText": "Enable"
+                  },
+                  "type": "RESPONSE"
+                },
+                {
+                  "buttonId": "antidelete off",
+                  "buttonText": {
+                    "displayText": "Disable"
+                  },
+                  "type": "RESPONSE"
+                }
+              ],
+              "headerType": "EMPTY"
+            }
+          }
+        },
+        "type": "DISPLAY_TEXT"
+      },
+      "body": "antidelete off",
+      "quoted": {
+        "text": "Mode antidelete 🕊️",
+        "contentText": "Mode antidelete 🕊️",
+        "footerText": "Silahkan Klik Button Dibawah, Jika Button Tidak Muncul Ketik antidelete on/off",
+        "buttons": [
+          {
+            "buttonId": "antidelete on",
+            "buttonText": {
+              "displayText": "Enable"
+            },
+            "type": "RESPONSE"
+          },
+          {
+            "buttonId": "antidelete off",
+            "buttonText": {
+              "displayText": "Disable"
+            },
+            "type": "RESPONSE"
+          }
+        ],
+        "headerType": "EMPTY"
+      },
+      "mentionedJid": [],
+      "text": "Disable"
+    }
+  }
+]
