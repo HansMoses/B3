@@ -1,0 +1,51 @@
+{
+  "users": {},
+  "group": {
+    "120363026585011705@g.us": {
+      "antilink": false,
+      "antidelete": true,
+      "antiviewone": false
+    },
+    "6283861007177-1633775518@g.us": {
+      "antilink": false,
+      "antidelete": false,
+      "antiviewone": false
+    },
+    "120363022845553232@g.us": {
+      "antilink": false,
+      "antidelete": false,
+      "antiviewone": false,
+      "antivirtex": false
+    },
+    "120363043416370544@g.us": {
+      "antilink": false,
+      "antidelete": false,
+      "antiviewone": false
+    },
+    "120363045280055860@g.us": {
+      "antilink": true,
+      "antivirtex": true,
+      "antidelete": false,
+      "antiviewone": false
+    },
+    "120363025174499214@g.us": {
+      "antilink": false,
+      "antivirtex": false,
+      "antidelete": false,
+      "antiviewone": false
+    },
+    "120363026349030399@g.us": {
+      "antilink": false,
+      "antivirtex": false,
+      "antidelete": false,
+      "antiviewone": false
+    }
+  },
+  "chats": {},
+  "database": {},
+  "game": {},
+  "settings": {},
+  "donate": {},
+  "others": {},
+  "sticker": {}
+}
