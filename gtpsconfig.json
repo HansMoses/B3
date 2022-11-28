@@ -1,7 +1,7 @@
 {
-    "exegtps": "gtps3.exe", // EXE DI CPP
-    "player": "players", // FOLDER PLAYER
-    "world": "worlds", // FOLDER WORLD
-    "guild": "guilds", // FOLDER GUILD
-    "nameserver": "RFPS" // NAMA SERVERMU
+    "exegtps": "gtps3.exe", 
+    "player": "players", 
+    "world": "worlds",
+    "guild": "guilds",
+    "nameserver": "RFPS"
 }
