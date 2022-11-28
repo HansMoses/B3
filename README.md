@@ -32,6 +32,17 @@ npm update
 
 ---------
 
+##  Editing the file
+Edit the required value in `gtpsconfig.json`.
+```json
+{
+    "exegtps": "server.exe",
+    "player": "players",
+    "world": "worlds",
+    "nameserver": "GTPS"
+}
+```
+
 ## Run
 
 ```bash
