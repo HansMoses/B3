@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //Ubah Disini
-global.ownerNumber = ['6285859202162']
-global.ownerName = 'Ferlito'
-global.packname = 'NC BOT'
+global.ownerNumber = ['6285774449597']
+global.ownerName = 'Hans'
+global.packname = 'NTP BOT'
 global.author = 'Ferlito | 62 858 592 021 62' //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi'
 global.footerbot = 'NC BOT 2022'
