@@ -39,3 +39,23 @@ npm start
 ```
 
 ---------
+
+## GTPS Features
+
+|     Server Info         |  Availability  |
+| :---------------------: | :------------: |
+| Server Status           |       ✔️      |
+| Check Info Player          |       ✔️      |
+
+|     Owner Command     | Availability |
+| :-------------------: | :----------: |
+| Check Info Player Advanced     |      ✔️      |
+| Start Server     |      ✔️      |
+| Stop Server        |      ✔️      |
+| Give VIP       |      ✔️      |
+| Give MOD       |      ✔️      |
+| Give DEV       |      ✔️      |
+| Give Level       |      ✔️      |
+| Give Gems       |      ✔️      |
+| Change Username      |      ✔️      |
+| Change Password     |      ✔️      |
