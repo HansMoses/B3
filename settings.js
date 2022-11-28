@@ -7,6 +7,7 @@ global.ownerName = 'Ferlito'
 global.packname = 'NC BOT'
 global.author = 'Ferlito | 62 858 592 021 62' //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi'
+global.footerbot = 'NC BOT 2022'
 
 //Message Nya Ubah Disini
 global.mess = {
