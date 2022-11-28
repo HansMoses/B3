@@ -41,6 +41,9 @@ Edit the required value in `gtpsconfig.json`.
     "world": "worlds",
     "nameserver": "GTPS"
 }
+
+- Edit menu display in `display.js`
+- Edit owner number etc in `settings.json`
 ```
 
 ## Run
